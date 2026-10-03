@@ -1,0 +1,953 @@
+sex,date,year,home_team,away_team,home_score,away_score,goals,margin
+men,1994-06-17,1994,Germany,Bolivia,1,0,1,1
+men,1994-06-17,1994,Spain,South Korea,2,2,4,0
+men,1994-06-18,1994,Colombia,Romania,1,3,4,2
+men,1994-06-18,1994,Italy,Republic of Ireland,0,1,1,1
+men,1994-06-18,1994,United States,Switzerland,1,1,2,0
+men,1994-06-19,1994,Belgium,Morocco,1,0,1,1
+men,1994-06-19,1994,Cameroon,Sweden,2,2,4,0
+men,1994-06-19,1994,Norway,Mexico,1,0,1,1
+men,1994-06-20,1994,Brazil,Russia,2,0,2,2
+men,1994-06-20,1994,Netherlands,Saudi Arabia,2,1,3,1
+men,1994-06-21,1994,Argentina,Greece,4,0,4,4
+men,1994-06-21,1994,Germany,Spain,1,1,2,0
+men,1994-06-21,1994,Nigeria,Bulgaria,3,0,3,3
+men,1994-06-22,1994,Romania,Switzerland,1,4,5,3
+men,1994-06-22,1994,United States,Colombia,2,1,3,1
+men,1994-06-23,1994,Italy,Norway,1,0,1,1
+men,1994-06-23,1994,South Korea,Bolivia,0,0,0,0
+men,1994-06-24,1994,Brazil,Cameroon,3,0,3,3
+men,1994-06-24,1994,Mexico,Republic of Ireland,2,1,3,1
+men,1994-06-24,1994,Sweden,Russia,3,1,4,2
+men,1994-06-25,1994,Argentina,Nigeria,2,1,3,1
+men,1994-06-25,1994,Belgium,Netherlands,1,0,1,1
+men,1994-06-25,1994,Saudi Arabia,Morocco,2,1,3,1
+men,1994-06-26,1994,Bulgaria,Greece,4,0,4,4
+men,1994-06-26,1994,Switzerland,Colombia,0,2,2,2
+men,1994-06-26,1994,United States,Romania,0,1,1,1
+men,1994-06-27,1994,Bolivia,Spain,1,3,4,2
+men,1994-06-27,1994,Germany,South Korea,3,2,5,1
+men,1994-06-28,1994,Brazil,Sweden,1,1,2,0
+men,1994-06-28,1994,Republic of Ireland,Norway,0,0,0,0
+men,1994-06-28,1994,Italy,Mexico,1,1,2,0
+men,1994-06-28,1994,Russia,Cameroon,6,1,7,5
+men,1994-06-29,1994,Belgium,Saudi Arabia,0,1,1,1
+men,1994-06-29,1994,Morocco,Netherlands,1,2,3,1
+men,1994-06-30,1994,Argentina,Bulgaria,0,2,2,2
+men,1994-06-30,1994,Greece,Nigeria,0,2,2,2
+men,1994-07-02,1994,Germany,Belgium,3,2,5,1
+men,1994-07-02,1994,Spain,Switzerland,3,0,3,3
+men,1994-07-03,1994,Romania,Argentina,3,2,5,1
+men,1994-07-03,1994,Saudi Arabia,Sweden,1,3,4,2
+men,1994-07-04,1994,Netherlands,Republic of Ireland,2,0,2,2
+men,1994-07-04,1994,United States,Brazil,0,1,1,1
+men,1994-07-05,1994,Mexico,Bulgaria,1,1,2,0
+men,1994-07-05,1994,Nigeria,Italy,1,2,3,1
+men,1994-07-09,1994,Italy,Spain,2,1,3,1
+men,1994-07-09,1994,Netherlands,Brazil,2,3,5,1
+men,1994-07-10,1994,Bulgaria,Germany,2,1,3,1
+men,1994-07-10,1994,Romania,Sweden,2,2,4,0
+men,1994-07-13,1994,Bulgaria,Italy,1,2,3,1
+men,1994-07-13,1994,Sweden,Brazil,0,1,1,1
+men,1994-07-16,1994,Sweden,Bulgaria,4,0,4,4
+men,1994-07-17,1994,Brazil,Italy,0,0,0,0
+men,1998-06-10,1998,Brazil,Scotland,2,1,3,1
+men,1998-06-10,1998,Morocco,Norway,2,2,4,0
+men,1998-06-11,1998,Cameroon,Austria,1,1,2,0
+men,1998-06-11,1998,Italy,Chile,2,2,4,0
+men,1998-06-12,1998,France,South Africa,3,0,3,3
+men,1998-06-12,1998,Paraguay,Bulgaria,0,0,0,0
+men,1998-06-12,1998,Saudi Arabia,Denmark,0,1,1,1
+men,1998-06-13,1998,South Korea,Mexico,1,3,4,2
+men,1998-06-13,1998,Netherlands,Belgium,0,0,0,0
+men,1998-06-13,1998,Spain,Nigeria,2,3,5,1
+men,1998-06-14,1998,Argentina,Japan,1,0,1,1
+men,1998-06-14,1998,Jamaica,Croatia,1,3,4,2
+men,1998-06-14,1998,Serbia,Iran,1,0,1,1
+men,1998-06-15,1998,England,Tunisia,2,0,2,2
+men,1998-06-15,1998,Germany,United States,2,0,2,2
+men,1998-06-15,1998,Romania,Colombia,1,0,1,1
+men,1998-06-16,1998,Brazil,Morocco,3,0,3,3
+men,1998-06-16,1998,Scotland,Norway,1,1,2,0
+men,1998-06-17,1998,Chile,Austria,1,1,2,0
+men,1998-06-17,1998,Italy,Cameroon,3,0,3,3
+men,1998-06-18,1998,France,Saudi Arabia,4,0,4,4
+men,1998-06-18,1998,South Africa,Denmark,1,1,2,0
+men,1998-06-19,1998,Nigeria,Bulgaria,1,0,1,1
+men,1998-06-19,1998,Spain,Paraguay,0,0,0,0
+men,1998-06-20,1998,Belgium,Mexico,2,2,4,0
+men,1998-06-20,1998,Japan,Croatia,0,1,1,1
+men,1998-06-20,1998,Netherlands,South Korea,5,0,5,5
+men,1998-06-21,1998,Argentina,Jamaica,5,0,5,5
+men,1998-06-21,1998,Germany,Serbia,2,2,4,0
+men,1998-06-21,1998,United States,Iran,1,2,3,1
+men,1998-06-22,1998,Colombia,Tunisia,1,0,1,1
+men,1998-06-22,1998,Romania,England,2,1,3,1
+men,1998-06-23,1998,Brazil,Norway,1,2,3,1
+men,1998-06-23,1998,Chile,Cameroon,1,1,2,0
+men,1998-06-23,1998,Italy,Austria,2,1,3,1
+men,1998-06-23,1998,Scotland,Morocco,0,3,3,3
+men,1998-06-24,1998,France,Denmark,2,1,3,1
+men,1998-06-24,1998,Nigeria,Paraguay,1,3,4,2
+men,1998-06-24,1998,South Africa,Saudi Arabia,2,2,4,0
+men,1998-06-24,1998,Spain,Bulgaria,6,1,7,5
+men,1998-06-25,1998,Belgium,South Korea,1,1,2,0
+men,1998-06-25,1998,Germany,Iran,2,0,2,2
+men,1998-06-25,1998,Netherlands,Mexico,2,2,4,0
+men,1998-06-25,1998,United States,Serbia,0,1,1,1
+men,1998-06-26,1998,Argentina,Croatia,1,0,1,1
+men,1998-06-26,1998,Colombia,England,0,2,2,2
+men,1998-06-26,1998,Japan,Jamaica,1,2,3,1
+men,1998-06-26,1998,Romania,Tunisia,1,1,2,0
+men,1998-06-27,1998,Brazil,Chile,4,1,5,3
+men,1998-06-27,1998,Italy,Norway,1,0,1,1
+men,1998-06-28,1998,France,Paraguay,1,0,1,1
+men,1998-06-28,1998,Nigeria,Denmark,1,4,5,3
+men,1998-06-29,1998,Germany,Mexico,2,1,3,1
+men,1998-06-29,1998,Netherlands,Serbia,2,1,3,1
+men,1998-06-30,1998,Argentina,England,2,2,4,0
+men,1998-06-30,1998,Romania,Croatia,0,1,1,1
+men,1998-07-03,1998,Brazil,Denmark,3,2,5,1
+men,1998-07-03,1998,France,Italy,0,0,0,0
+men,1998-07-04,1998,Germany,Croatia,0,3,3,3
+men,1998-07-04,1998,Netherlands,Argentina,2,1,3,1
+men,1998-07-07,1998,Brazil,Netherlands,1,1,2,0
+men,1998-07-08,1998,France,Croatia,2,1,3,1
+men,1998-07-11,1998,Netherlands,Croatia,1,2,3,1
+men,1998-07-12,1998,France,Brazil,3,0,3,3
+men,2002-05-31,2002,France,Senegal,0,1,1,1
+men,2002-06-01,2002,Germany,Saudi Arabia,8,0,8,8
+men,2002-06-01,2002,Republic of Ireland,Cameroon,1,1,2,0
+men,2002-06-01,2002,Uruguay,Denmark,1,2,3,1
+men,2002-06-02,2002,Argentina,Nigeria,1,0,1,1
+men,2002-06-02,2002,England,Sweden,1,1,2,0
+men,2002-06-02,2002,Paraguay,South Africa,2,2,4,0
+men,2002-06-02,2002,Spain,Slovenia,3,1,4,2
+men,2002-06-03,2002,Brazil,Turkey,2,1,3,1
+men,2002-06-03,2002,Croatia,Mexico,0,1,1,1
+men,2002-06-03,2002,Italy,Ecuador,2,0,2,2
+men,2002-06-04,2002,China,Costa Rica,0,2,2,2
+men,2002-06-04,2002,Japan,Belgium,2,2,4,0
+men,2002-06-04,2002,South Korea,Poland,2,0,2,2
+men,2002-06-05,2002,Germany,Republic of Ireland,1,1,2,0
+men,2002-06-05,2002,Russia,Tunisia,2,0,2,2
+men,2002-06-05,2002,United States,Portugal,3,2,5,1
+men,2002-06-06,2002,Cameroon,Saudi Arabia,1,0,1,1
+men,2002-06-06,2002,Denmark,Senegal,1,1,2,0
+men,2002-06-06,2002,France,Uruguay,0,0,0,0
+men,2002-06-07,2002,Argentina,England,0,1,1,1
+men,2002-06-07,2002,Spain,Paraguay,3,1,4,2
+men,2002-06-07,2002,Sweden,Nigeria,2,1,3,1
+men,2002-06-08,2002,Brazil,China,4,0,4,4
+men,2002-06-08,2002,Italy,Croatia,1,2,3,1
+men,2002-06-08,2002,South Africa,Slovenia,1,0,1,1
+men,2002-06-09,2002,Costa Rica,Turkey,1,1,2,0
+men,2002-06-09,2002,Japan,Russia,1,0,1,1
+men,2002-06-09,2002,Mexico,Ecuador,2,1,3,1
+men,2002-06-10,2002,South Korea,United States,1,1,2,0
+men,2002-06-10,2002,Portugal,Poland,4,0,4,4
+men,2002-06-10,2002,Tunisia,Belgium,1,1,2,0
+men,2002-06-11,2002,Cameroon,Germany,0,2,2,2
+men,2002-06-11,2002,Denmark,France,2,0,2,2
+men,2002-06-11,2002,Saudi Arabia,Republic of Ireland,0,3,3,3
+men,2002-06-11,2002,Senegal,Uruguay,3,3,6,0
+men,2002-06-12,2002,Nigeria,England,0,0,0,0
+men,2002-06-12,2002,Slovenia,Paraguay,1,3,4,2
+men,2002-06-12,2002,South Africa,Spain,2,3,5,1
+men,2002-06-12,2002,Sweden,Argentina,1,1,2,0
+men,2002-06-13,2002,Costa Rica,Brazil,2,5,7,3
+men,2002-06-13,2002,Ecuador,Croatia,1,0,1,1
+men,2002-06-13,2002,Mexico,Italy,1,1,2,0
+men,2002-06-13,2002,Turkey,China,3,0,3,3
+men,2002-06-14,2002,Belgium,Russia,3,2,5,1
+men,2002-06-14,2002,Japan,Tunisia,2,0,2,2
+men,2002-06-14,2002,South Korea,Portugal,1,0,1,1
+men,2002-06-14,2002,Poland,United States,3,1,4,2
+men,2002-06-15,2002,Denmark,England,0,3,3,3
+men,2002-06-15,2002,Germany,Paraguay,1,0,1,1
+men,2002-06-16,2002,Spain,Republic of Ireland,1,1,2,0
+men,2002-06-16,2002,Sweden,Senegal,1,2,3,1
+men,2002-06-17,2002,Brazil,Belgium,2,0,2,2
+men,2002-06-17,2002,Mexico,United States,0,2,2,2
+men,2002-06-18,2002,Japan,Turkey,0,1,1,1
+men,2002-06-18,2002,South Korea,Italy,2,1,3,1
+men,2002-06-21,2002,England,Brazil,1,2,3,1
+men,2002-06-21,2002,Germany,United States,1,0,1,1
+men,2002-06-22,2002,South Korea,Spain,0,0,0,0
+men,2002-06-22,2002,Senegal,Turkey,0,1,1,1
+men,2002-06-25,2002,South Korea,Germany,0,1,1,1
+men,2002-06-26,2002,Brazil,Turkey,1,0,1,1
+men,2002-06-29,2002,South Korea,Turkey,2,3,5,1
+men,2002-06-30,2002,Germany,Brazil,0,2,2,2
+men,2006-06-09,2006,Germany,Costa Rica,4,2,6,2
+men,2006-06-09,2006,Poland,Ecuador,0,2,2,2
+men,2006-06-10,2006,Argentina,Ivory Coast,2,1,3,1
+men,2006-06-10,2006,England,Paraguay,1,0,1,1
+men,2006-06-10,2006,Trinidad and Tobago,Sweden,0,0,0,0
+men,2006-06-11,2006,Angola,Portugal,0,1,1,1
+men,2006-06-11,2006,Mexico,Iran,3,1,4,2
+men,2006-06-11,2006,Serbia,Netherlands,0,1,1,1
+men,2006-06-12,2006,Australia,Japan,3,1,4,2
+men,2006-06-12,2006,Italy,Ghana,2,0,2,2
+men,2006-06-12,2006,United States,Czech Republic,0,3,3,3
+men,2006-06-13,2006,Brazil,Croatia,1,0,1,1
+men,2006-06-13,2006,France,Switzerland,0,0,0,0
+men,2006-06-13,2006,South Korea,Togo,2,1,3,1
+men,2006-06-14,2006,Germany,Poland,1,0,1,1
+men,2006-06-14,2006,Spain,Ukraine,4,0,4,4
+men,2006-06-14,2006,Tunisia,Saudi Arabia,2,2,4,0
+men,2006-06-15,2006,Ecuador,Costa Rica,3,0,3,3
+men,2006-06-15,2006,England,Trinidad and Tobago,2,0,2,2
+men,2006-06-15,2006,Sweden,Paraguay,1,0,1,1
+men,2006-06-16,2006,Argentina,Serbia,6,0,6,6
+men,2006-06-16,2006,Mexico,Angola,0,0,0,0
+men,2006-06-16,2006,Netherlands,Ivory Coast,2,1,3,1
+men,2006-06-17,2006,Czech Republic,Ghana,0,2,2,2
+men,2006-06-17,2006,Italy,United States,1,1,2,0
+men,2006-06-17,2006,Portugal,Iran,2,0,2,2
+men,2006-06-18,2006,Brazil,Australia,2,0,2,2
+men,2006-06-18,2006,France,South Korea,1,1,2,0
+men,2006-06-18,2006,Japan,Croatia,0,0,0,0
+men,2006-06-19,2006,Saudi Arabia,Ukraine,0,4,4,4
+men,2006-06-19,2006,Spain,Tunisia,3,1,4,2
+men,2006-06-19,2006,Togo,Switzerland,0,2,2,2
+men,2006-06-20,2006,Costa Rica,Poland,1,2,3,1
+men,2006-06-20,2006,Germany,Ecuador,3,0,3,3
+men,2006-06-20,2006,Paraguay,Trinidad and Tobago,2,0,2,2
+men,2006-06-20,2006,Sweden,England,2,2,4,0
+men,2006-06-21,2006,Iran,Angola,1,1,2,0
+men,2006-06-21,2006,Ivory Coast,Serbia,3,2,5,1
+men,2006-06-21,2006,Netherlands,Argentina,0,0,0,0
+men,2006-06-21,2006,Portugal,Mexico,2,1,3,1
+men,2006-06-22,2006,Croatia,Australia,2,2,4,0
+men,2006-06-22,2006,Czech Republic,Italy,0,2,2,2
+men,2006-06-22,2006,Ghana,United States,2,1,3,1
+men,2006-06-22,2006,Japan,Brazil,1,4,5,3
+men,2006-06-23,2006,Saudi Arabia,Spain,0,1,1,1
+men,2006-06-23,2006,Switzerland,South Korea,2,0,2,2
+men,2006-06-23,2006,Togo,France,0,2,2,2
+men,2006-06-23,2006,Ukraine,Tunisia,1,0,1,1
+men,2006-06-24,2006,Argentina,Mexico,2,1,3,1
+men,2006-06-24,2006,Germany,Sweden,2,0,2,2
+men,2006-06-25,2006,England,Ecuador,1,0,1,1
+men,2006-06-25,2006,Portugal,Netherlands,1,0,1,1
+men,2006-06-26,2006,Italy,Australia,1,0,1,1
+men,2006-06-26,2006,Switzerland,Ukraine,0,0,0,0
+men,2006-06-27,2006,Brazil,Ghana,3,0,3,3
+men,2006-06-27,2006,Spain,France,1,3,4,2
+men,2006-06-30,2006,Germany,Argentina,1,1,2,0
+men,2006-06-30,2006,Italy,Ukraine,3,0,3,3
+men,2006-07-01,2006,Brazil,France,0,1,1,1
+men,2006-07-01,2006,England,Portugal,0,0,0,0
+men,2006-07-04,2006,Germany,Italy,0,2,2,2
+men,2006-07-05,2006,Portugal,France,0,1,1,1
+men,2006-07-08,2006,Germany,Portugal,3,1,4,2
+men,2006-07-09,2006,Italy,France,1,1,2,0
+men,2010-06-11,2010,South Africa,Mexico,1,1,2,0
+men,2010-06-11,2010,Uruguay,France,0,0,0,0
+men,2010-06-12,2010,Argentina,Nigeria,1,0,1,1
+men,2010-06-12,2010,England,United States,1,1,2,0
+men,2010-06-12,2010,South Korea,Greece,2,0,2,2
+men,2010-06-13,2010,Algeria,Slovenia,0,1,1,1
+men,2010-06-13,2010,Germany,Australia,4,0,4,4
+men,2010-06-13,2010,Serbia,Ghana,0,1,1,1
+men,2010-06-14,2010,Italy,Paraguay,1,1,2,0
+men,2010-06-14,2010,Japan,Cameroon,1,0,1,1
+men,2010-06-14,2010,Netherlands,Denmark,2,0,2,2
+men,2010-06-15,2010,Brazil,North Korea,2,1,3,1
+men,2010-06-15,2010,Ivory Coast,Portugal,0,0,0,0
+men,2010-06-15,2010,New Zealand,Slovakia,1,1,2,0
+men,2010-06-16,2010,Honduras,Chile,0,1,1,1
+men,2010-06-16,2010,South Africa,Uruguay,0,3,3,3
+men,2010-06-16,2010,Spain,Switzerland,0,1,1,1
+men,2010-06-17,2010,Argentina,South Korea,4,1,5,3
+men,2010-06-17,2010,France,Mexico,0,2,2,2
+men,2010-06-17,2010,Greece,Nigeria,2,1,3,1
+men,2010-06-18,2010,England,Algeria,0,0,0,0
+men,2010-06-18,2010,Germany,Serbia,0,1,1,1
+men,2010-06-18,2010,Slovenia,United States,2,2,4,0
+men,2010-06-19,2010,Cameroon,Denmark,1,2,3,1
+men,2010-06-19,2010,Ghana,Australia,1,1,2,0
+men,2010-06-19,2010,Netherlands,Japan,1,0,1,1
+men,2010-06-20,2010,Brazil,Ivory Coast,3,1,4,2
+men,2010-06-20,2010,Italy,New Zealand,1,1,2,0
+men,2010-06-20,2010,Slovakia,Paraguay,0,2,2,2
+men,2010-06-21,2010,Chile,Switzerland,1,0,1,1
+men,2010-06-21,2010,Portugal,North Korea,7,0,7,7
+men,2010-06-21,2010,Spain,Honduras,2,0,2,2
+men,2010-06-22,2010,Greece,Argentina,0,2,2,2
+men,2010-06-22,2010,Mexico,Uruguay,0,1,1,1
+men,2010-06-22,2010,Nigeria,South Korea,2,2,4,0
+men,2010-06-22,2010,South Africa,France,2,1,3,1
+men,2010-06-23,2010,Australia,Serbia,2,1,3,1
+men,2010-06-23,2010,Ghana,Germany,0,1,1,1
+men,2010-06-23,2010,Slovenia,England,0,1,1,1
+men,2010-06-23,2010,United States,Algeria,1,0,1,1
+men,2010-06-24,2010,Cameroon,Netherlands,1,2,3,1
+men,2010-06-24,2010,Denmark,Japan,1,3,4,2
+men,2010-06-24,2010,Paraguay,New Zealand,0,0,0,0
+men,2010-06-24,2010,Slovakia,Italy,3,2,5,1
+men,2010-06-25,2010,Chile,Spain,1,2,3,1
+men,2010-06-25,2010,North Korea,Ivory Coast,0,3,3,3
+men,2010-06-25,2010,Portugal,Brazil,0,0,0,0
+men,2010-06-25,2010,Switzerland,Honduras,0,0,0,0
+men,2010-06-26,2010,Uruguay,South Korea,2,1,3,1
+men,2010-06-26,2010,United States,Ghana,1,2,3,1
+men,2010-06-27,2010,Argentina,Mexico,3,1,4,2
+men,2010-06-27,2010,Germany,England,4,1,5,3
+men,2010-06-28,2010,Brazil,Chile,3,0,3,3
+men,2010-06-28,2010,Netherlands,Slovakia,2,1,3,1
+men,2010-06-29,2010,Paraguay,Japan,0,0,0,0
+men,2010-06-29,2010,Spain,Portugal,1,0,1,1
+men,2010-07-02,2010,Netherlands,Brazil,2,1,3,1
+men,2010-07-02,2010,Uruguay,Ghana,1,1,2,0
+men,2010-07-03,2010,Argentina,Germany,0,4,4,4
+men,2010-07-03,2010,Paraguay,Spain,0,1,1,1
+men,2010-07-06,2010,Uruguay,Netherlands,2,3,5,1
+men,2010-07-07,2010,Germany,Spain,0,1,1,1
+men,2010-07-10,2010,Uruguay,Germany,2,3,5,1
+men,2010-07-11,2010,Netherlands,Spain,0,1,1,1
+men,2014-06-12,2014,Brazil,Croatia,3,1,4,2
+men,2014-06-13,2014,Chile,Australia,3,1,4,2
+men,2014-06-13,2014,Mexico,Cameroon,1,0,1,1
+men,2014-06-13,2014,Spain,Netherlands,1,5,6,4
+men,2014-06-14,2014,Colombia,Greece,3,0,3,3
+men,2014-06-14,2014,England,Italy,1,2,3,1
+men,2014-06-14,2014,Ivory Coast,Japan,2,1,3,1
+men,2014-06-14,2014,Uruguay,Costa Rica,1,3,4,2
+men,2014-06-15,2014,Argentina,Bosnia and Herzegovina,2,1,3,1
+men,2014-06-15,2014,France,Honduras,3,0,3,3
+men,2014-06-15,2014,Switzerland,Ecuador,2,1,3,1
+men,2014-06-16,2014,Germany,Portugal,4,0,4,4
+men,2014-06-16,2014,Ghana,United States,1,2,3,1
+men,2014-06-16,2014,Iran,Nigeria,0,0,0,0
+men,2014-06-17,2014,Belgium,Algeria,2,1,3,1
+men,2014-06-17,2014,Brazil,Mexico,0,0,0,0
+men,2014-06-17,2014,Russia,South Korea,1,1,2,0
+men,2014-06-18,2014,Australia,Netherlands,2,3,5,1
+men,2014-06-18,2014,Cameroon,Croatia,0,4,4,4
+men,2014-06-18,2014,Spain,Chile,0,2,2,2
+men,2014-06-19,2014,Colombia,Ivory Coast,2,1,3,1
+men,2014-06-19,2014,Japan,Greece,0,0,0,0
+men,2014-06-19,2014,Uruguay,England,2,1,3,1
+men,2014-06-20,2014,Honduras,Ecuador,1,2,3,1
+men,2014-06-20,2014,Italy,Costa Rica,0,1,1,1
+men,2014-06-20,2014,Switzerland,France,2,5,7,3
+men,2014-06-21,2014,Argentina,Iran,1,0,1,1
+men,2014-06-21,2014,Germany,Ghana,2,2,4,0
+men,2014-06-21,2014,Nigeria,Bosnia and Herzegovina,1,0,1,1
+men,2014-06-22,2014,Belgium,Russia,1,0,1,1
+men,2014-06-22,2014,South Korea,Algeria,2,4,6,2
+men,2014-06-22,2014,United States,Portugal,2,2,4,0
+men,2014-06-23,2014,Australia,Spain,0,3,3,3
+men,2014-06-23,2014,Brazil,Cameroon,4,1,5,3
+men,2014-06-23,2014,Croatia,Mexico,1,3,4,2
+men,2014-06-23,2014,Netherlands,Chile,2,0,2,2
+men,2014-06-24,2014,Costa Rica,England,0,0,0,0
+men,2014-06-24,2014,Greece,Ivory Coast,2,1,3,1
+men,2014-06-24,2014,Italy,Uruguay,0,1,1,1
+men,2014-06-24,2014,Japan,Colombia,1,4,5,3
+men,2014-06-25,2014,Bosnia and Herzegovina,Iran,3,1,4,2
+men,2014-06-25,2014,Ecuador,France,0,0,0,0
+men,2014-06-25,2014,Honduras,Switzerland,0,3,3,3
+men,2014-06-25,2014,Nigeria,Argentina,2,3,5,1
+men,2014-06-26,2014,Algeria,Russia,1,1,2,0
+men,2014-06-26,2014,South Korea,Belgium,0,1,1,1
+men,2014-06-26,2014,Portugal,Ghana,2,1,3,1
+men,2014-06-26,2014,United States,Germany,0,1,1,1
+men,2014-06-28,2014,Brazil,Chile,1,1,2,0
+men,2014-06-28,2014,Colombia,Uruguay,2,0,2,2
+men,2014-06-29,2014,Costa Rica,Greece,1,1,2,0
+men,2014-06-29,2014,Netherlands,Mexico,2,1,3,1
+men,2014-06-30,2014,France,Nigeria,2,0,2,2
+men,2014-06-30,2014,Germany,Algeria,2,1,3,1
+men,2014-07-01,2014,Argentina,Switzerland,1,0,1,1
+men,2014-07-01,2014,Belgium,United States,2,1,3,1
+men,2014-07-04,2014,Brazil,Colombia,2,1,3,1
+men,2014-07-04,2014,France,Germany,0,1,1,1
+men,2014-07-05,2014,Argentina,Belgium,1,0,1,1
+men,2014-07-05,2014,Netherlands,Costa Rica,0,0,0,0
+men,2014-07-08,2014,Brazil,Germany,1,7,8,6
+men,2014-07-09,2014,Netherlands,Argentina,0,0,0,0
+men,2014-07-12,2014,Brazil,Netherlands,0,3,3,3
+men,2014-07-13,2014,Germany,Argentina,1,0,1,1
+men,2018-06-14,2018,Russia,Saudi Arabia,5,0,5,5
+men,2018-06-15,2018,Egypt,Uruguay,0,1,1,1
+men,2018-06-15,2018,Morocco,Iran,0,1,1,1
+men,2018-06-15,2018,Portugal,Spain,3,3,6,0
+men,2018-06-16,2018,France,Australia,2,1,3,1
+men,2018-06-16,2018,Argentina,Iceland,1,1,2,0
+men,2018-06-16,2018,Peru,Denmark,0,1,1,1
+men,2018-06-16,2018,Croatia,Nigeria,2,0,2,2
+men,2018-06-17,2018,Costa Rica,Serbia,0,1,1,1
+men,2018-06-17,2018,Germany,Mexico,0,1,1,1
+men,2018-06-17,2018,Brazil,Switzerland,1,1,2,0
+men,2018-06-18,2018,Sweden,South Korea,1,0,1,1
+men,2018-06-18,2018,Belgium,Panama,3,0,3,3
+men,2018-06-18,2018,Tunisia,England,1,2,3,1
+men,2018-06-19,2018,Colombia,Japan,1,2,3,1
+men,2018-06-19,2018,Poland,Senegal,1,2,3,1
+men,2018-06-19,2018,Russia,Egypt,3,1,4,2
+men,2018-06-20,2018,Portugal,Morocco,1,0,1,1
+men,2018-06-20,2018,Uruguay,Saudi Arabia,1,0,1,1
+men,2018-06-20,2018,Iran,Spain,0,1,1,1
+men,2018-06-21,2018,Denmark,Australia,1,1,2,0
+men,2018-06-21,2018,France,Peru,1,0,1,1
+men,2018-06-21,2018,Argentina,Croatia,0,3,3,3
+men,2018-06-22,2018,Brazil,Costa Rica,2,0,2,2
+men,2018-06-22,2018,Nigeria,Iceland,2,0,2,2
+men,2018-06-22,2018,Serbia,Switzerland,1,2,3,1
+men,2018-06-23,2018,Belgium,Tunisia,5,2,7,3
+men,2018-06-23,2018,South Korea,Mexico,1,2,3,1
+men,2018-06-23,2018,Germany,Sweden,2,1,3,1
+men,2018-06-24,2018,England,Panama,6,1,7,5
+men,2018-06-24,2018,Japan,Senegal,2,2,4,0
+men,2018-06-24,2018,Poland,Colombia,0,3,3,3
+men,2018-06-25,2018,Russia,Uruguay,0,3,3,3
+men,2018-06-25,2018,Saudi Arabia,Egypt,2,1,3,1
+men,2018-06-25,2018,Spain,Morocco,2,2,4,0
+men,2018-06-25,2018,Iran,Portugal,1,1,2,0
+men,2018-06-26,2018,Australia,Peru,0,2,2,2
+men,2018-06-26,2018,Denmark,France,0,0,0,0
+men,2018-06-26,2018,Nigeria,Argentina,1,2,3,1
+men,2018-06-26,2018,Iceland,Croatia,1,2,3,1
+men,2018-06-27,2018,South Korea,Germany,2,0,2,2
+men,2018-06-27,2018,Mexico,Sweden,0,3,3,3
+men,2018-06-27,2018,Serbia,Brazil,0,2,2,2
+men,2018-06-27,2018,Switzerland,Costa Rica,2,2,4,0
+men,2018-06-28,2018,Japan,Poland,0,1,1,1
+men,2018-06-28,2018,Senegal,Colombia,0,1,1,1
+men,2018-06-28,2018,Panama,Tunisia,1,2,3,1
+men,2018-06-28,2018,England,Belgium,0,1,1,1
+men,2018-06-30,2018,France,Argentina,4,3,7,1
+men,2018-06-30,2018,Uruguay,Portugal,2,1,3,1
+men,2018-07-01,2018,Russia,Spain,1,1,2,0
+men,2018-07-01,2018,Croatia,Denmark,1,1,2,0
+men,2018-07-02,2018,Brazil,Mexico,2,0,2,2
+men,2018-07-02,2018,Belgium,Japan,3,2,5,1
+men,2018-07-03,2018,Sweden,Switzerland,1,0,1,1
+men,2018-07-03,2018,Colombia,England,1,1,2,0
+men,2018-07-06,2018,Uruguay,France,0,2,2,2
+men,2018-07-06,2018,Brazil,Belgium,1,2,3,1
+men,2018-07-07,2018,Sweden,England,0,2,2,2
+men,2018-07-07,2018,Russia,Croatia,2,2,4,0
+men,2018-07-10,2018,France,Belgium,1,0,1,1
+men,2018-07-11,2018,Croatia,England,2,1,3,1
+men,2018-07-14,2018,Belgium,England,2,0,2,2
+men,2018-07-15,2018,France,Croatia,4,2,6,2
+men,2022-11-20,2022,Qatar,Ecuador,0,2,2,2
+men,2022-11-21,2022,Senegal,Netherlands,0,2,2,2
+men,2022-11-21,2022,England,Iran,6,2,8,4
+men,2022-11-21,2022,United States,Wales,1,1,2,0
+men,2022-11-22,2022,Argentina,Saudi Arabia,1,2,3,1
+men,2022-11-22,2022,Mexico,Poland,0,0,0,0
+men,2022-11-22,2022,Denmark,Tunisia,0,0,0,0
+men,2022-11-22,2022,France,Australia,4,1,5,3
+men,2022-11-23,2022,Germany,Japan,1,2,3,1
+men,2022-11-23,2022,Spain,Costa Rica,7,0,7,7
+men,2022-11-23,2022,Morocco,Croatia,0,0,0,0
+men,2022-11-23,2022,Belgium,Canada,1,0,1,1
+men,2022-11-24,2022,Switzerland,Cameroon,1,0,1,1
+men,2022-11-24,2022,Brazil,Serbia,2,0,2,2
+men,2022-11-24,2022,Uruguay,South Korea,0,0,0,0
+men,2022-11-24,2022,Portugal,Ghana,3,2,5,1
+men,2022-11-25,2022,Qatar,Senegal,1,3,4,2
+men,2022-11-25,2022,Netherlands,Ecuador,1,1,2,0
+men,2022-11-25,2022,Wales,Iran,0,2,2,2
+men,2022-11-25,2022,England,United States,0,0,0,0
+men,2022-11-26,2022,Poland,Saudi Arabia,2,0,2,2
+men,2022-11-26,2022,Argentina,Mexico,2,0,2,2
+men,2022-11-26,2022,Tunisia,Australia,0,1,1,1
+men,2022-11-26,2022,France,Denmark,2,1,3,1
+men,2022-11-27,2022,Japan,Costa Rica,0,1,1,1
+men,2022-11-27,2022,Spain,Germany,1,1,2,0
+men,2022-11-27,2022,Belgium,Morocco,0,2,2,2
+men,2022-11-27,2022,Croatia,Canada,4,1,5,3
+men,2022-11-28,2022,Cameroon,Serbia,3,3,6,0
+men,2022-11-28,2022,Brazil,Switzerland,1,0,1,1
+men,2022-11-28,2022,South Korea,Ghana,2,3,5,1
+men,2022-11-28,2022,Portugal,Uruguay,2,0,2,2
+men,2022-11-29,2022,Ecuador,Senegal,1,2,3,1
+men,2022-11-29,2022,Qatar,Netherlands,0,2,2,2
+men,2022-11-29,2022,Wales,England,0,3,3,3
+men,2022-11-29,2022,Iran,United States,0,1,1,1
+men,2022-11-30,2022,Poland,Argentina,0,2,2,2
+men,2022-11-30,2022,Saudi Arabia,Mexico,1,2,3,1
+men,2022-11-30,2022,Australia,Denmark,1,0,1,1
+men,2022-11-30,2022,Tunisia,France,1,0,1,1
+men,2022-12-01,2022,Japan,Spain,2,1,3,1
+men,2022-12-01,2022,Costa Rica,Germany,2,4,6,2
+men,2022-12-01,2022,Croatia,Belgium,0,0,0,0
+men,2022-12-01,2022,Canada,Morocco,1,2,3,1
+men,2022-12-02,2022,Serbia,Switzerland,2,3,5,1
+men,2022-12-02,2022,Cameroon,Brazil,1,0,1,1
+men,2022-12-02,2022,Ghana,Uruguay,0,2,2,2
+men,2022-12-02,2022,South Korea,Portugal,2,1,3,1
+men,2022-12-03,2022,Netherlands,United States,3,1,4,2
+men,2022-12-03,2022,Argentina,Australia,2,1,3,1
+men,2022-12-04,2022,France,Poland,3,1,4,2
+men,2022-12-04,2022,England,Senegal,3,0,3,3
+men,2022-12-05,2022,Japan,Croatia,1,1,2,0
+men,2022-12-05,2022,Brazil,South Korea,4,1,5,3
+men,2022-12-06,2022,Morocco,Spain,0,0,0,0
+men,2022-12-06,2022,Portugal,Switzerland,6,1,7,5
+men,2022-12-09,2022,Croatia,Brazil,1,1,2,0
+men,2022-12-09,2022,Netherlands,Argentina,2,2,4,0
+men,2022-12-10,2022,Morocco,Portugal,1,0,1,1
+men,2022-12-10,2022,England,France,1,2,3,1
+men,2022-12-13,2022,Argentina,Croatia,3,0,3,3
+men,2022-12-14,2022,France,Morocco,2,0,2,2
+men,2022-12-17,2022,Croatia,Morocco,2,1,3,1
+men,2022-12-18,2022,Argentina,France,3,3,6,0
+men,2026-06-11,2026,Mexico,South Africa,2,0,2,2
+men,2026-06-11,2026,South Korea,Czech Republic,2,1,3,1
+men,2026-06-12,2026,Canada,Bosnia and Herzegovina,1,1,2,0
+men,2026-06-12,2026,United States,Paraguay,4,1,5,3
+men,2026-06-13,2026,Qatar,Switzerland,1,1,2,0
+men,2026-06-13,2026,Brazil,Morocco,1,1,2,0
+men,2026-06-13,2026,Haiti,Scotland,0,1,1,1
+men,2026-06-13,2026,Australia,Turkey,2,0,2,2
+men,2026-06-14,2026,Germany,Curaçao,7,1,8,6
+men,2026-06-14,2026,Ivory Coast,Ecuador,1,0,1,1
+men,2026-06-14,2026,Netherlands,Japan,2,2,4,0
+men,2026-06-14,2026,Sweden,Tunisia,5,1,6,4
+men,2026-06-15,2026,Belgium,Egypt,1,1,2,0
+men,2026-06-15,2026,Iran,New Zealand,2,2,4,0
+men,2026-06-15,2026,Spain,Cape Verde,0,0,0,0
+men,2026-06-15,2026,Saudi Arabia,Uruguay,1,1,2,0
+men,2026-06-16,2026,France,Senegal,3,1,4,2
+men,2026-06-16,2026,Iraq,Norway,1,4,5,3
+men,2026-06-16,2026,Argentina,Algeria,3,0,3,3
+men,2026-06-16,2026,Austria,Jordan,3,1,4,2
+men,2026-06-17,2026,Portugal,DR Congo,1,1,2,0
+men,2026-06-17,2026,Uzbekistan,Colombia,1,3,4,2
+men,2026-06-17,2026,England,Croatia,4,2,6,2
+men,2026-06-17,2026,Ghana,Panama,1,0,1,1
+men,2026-06-18,2026,Czech Republic,South Africa,1,1,2,0
+men,2026-06-18,2026,Mexico,South Korea,1,0,1,1
+men,2026-06-18,2026,Switzerland,Bosnia and Herzegovina,4,1,5,3
+men,2026-06-18,2026,Canada,Qatar,6,0,6,6
+men,2026-06-19,2026,Scotland,Morocco,0,1,1,1
+men,2026-06-19,2026,Brazil,Haiti,3,0,3,3
+men,2026-06-19,2026,United States,Australia,2,0,2,2
+men,2026-06-19,2026,Turkey,Paraguay,0,1,1,1
+men,2026-06-20,2026,Germany,Ivory Coast,2,1,3,1
+men,2026-06-20,2026,Ecuador,Curaçao,0,0,0,0
+men,2026-06-20,2026,Netherlands,Sweden,5,1,6,4
+men,2026-06-20,2026,Tunisia,Japan,0,4,4,4
+men,2026-06-21,2026,Belgium,Iran,0,0,0,0
+men,2026-06-21,2026,New Zealand,Egypt,1,3,4,2
+men,2026-06-21,2026,Spain,Saudi Arabia,4,0,4,4
+men,2026-06-21,2026,Uruguay,Cape Verde,2,2,4,0
+men,2026-06-22,2026,France,Iraq,3,0,3,3
+men,2026-06-22,2026,Norway,Senegal,3,2,5,1
+men,2026-06-22,2026,Argentina,Austria,2,0,2,2
+men,2026-06-22,2026,Jordan,Algeria,1,2,3,1
+men,2026-06-23,2026,Portugal,Uzbekistan,5,0,5,5
+men,2026-06-23,2026,Colombia,DR Congo,1,0,1,1
+men,2026-06-23,2026,England,Ghana,0,0,0,0
+men,2026-06-23,2026,Panama,Croatia,0,1,1,1
+men,2026-06-24,2026,Mexico,Czech Republic,3,0,3,3
+men,2026-06-24,2026,South Africa,South Korea,1,0,1,1
+men,2026-06-24,2026,Canada,Switzerland,1,2,3,1
+men,2026-06-24,2026,Bosnia and Herzegovina,Qatar,3,1,4,2
+men,2026-06-24,2026,Scotland,Brazil,0,3,3,3
+men,2026-06-24,2026,Morocco,Haiti,4,2,6,2
+men,2026-06-25,2026,United States,Turkey,2,3,5,1
+men,2026-06-25,2026,Paraguay,Australia,0,0,0,0
+men,2026-06-25,2026,Curaçao,Ivory Coast,0,2,2,2
+men,2026-06-25,2026,Ecuador,Germany,2,1,3,1
+men,2026-06-25,2026,Japan,Sweden,1,1,2,0
+men,2026-06-25,2026,Tunisia,Netherlands,1,3,4,2
+men,2026-06-26,2026,Egypt,Iran,1,1,2,0
+men,2026-06-26,2026,New Zealand,Belgium,1,5,6,4
+men,2026-06-26,2026,Cape Verde,Saudi Arabia,0,0,0,0
+men,2026-06-26,2026,Uruguay,Spain,0,1,1,1
+men,2026-06-26,2026,Norway,France,1,4,5,3
+men,2026-06-26,2026,Senegal,Iraq,5,0,5,5
+men,2026-06-27,2026,Algeria,Austria,3,3,6,0
+men,2026-06-27,2026,Jordan,Argentina,1,3,4,2
+men,2026-06-27,2026,Colombia,Portugal,0,0,0,0
+men,2026-06-27,2026,DR Congo,Uzbekistan,3,1,4,2
+men,2026-06-27,2026,Panama,England,0,2,2,2
+men,2026-06-27,2026,Croatia,Ghana,2,1,3,1
+men,2026-06-28,2026,South Africa,Canada,0,1,1,1
+men,2026-06-29,2026,Brazil,Japan,2,1,3,1
+men,2026-06-29,2026,Germany,Paraguay,1,1,2,0
+men,2026-06-29,2026,Netherlands,Morocco,1,1,2,0
+men,2026-06-30,2026,Ivory Coast,Norway,1,2,3,1
+men,2026-06-30,2026,France,Sweden,3,0,3,3
+men,2026-06-30,2026,Mexico,Ecuador,2,0,2,2
+men,2026-07-01,2026,England,DR Congo,2,1,3,1
+men,2026-07-01,2026,Belgium,Senegal,3,2,5,1
+men,2026-07-01,2026,United States,Bosnia and Herzegovina,2,0,2,2
+men,2026-07-02,2026,Spain,Austria,3,0,3,3
+men,2026-07-02,2026,Portugal,Croatia,2,1,3,1
+men,2026-07-02,2026,Switzerland,Algeria,2,0,2,2
+men,2026-07-03,2026,Australia,Egypt,1,1,2,0
+men,2026-07-03,2026,Argentina,Cape Verde,3,2,5,1
+men,2026-07-03,2026,Colombia,Ghana,1,0,1,1
+men,2026-07-04,2026,Canada,Morocco,0,3,3,3
+men,2026-07-04,2026,Paraguay,France,0,1,1,1
+men,2026-07-05,2026,Brazil,Norway,1,2,3,1
+men,2026-07-05,2026,Mexico,England,2,3,5,1
+men,2026-07-06,2026,Portugal,Spain,0,1,1,1
+men,2026-07-06,2026,United States,Belgium,1,4,5,3
+men,2026-07-07,2026,Argentina,Egypt,3,2,5,1
+men,2026-07-07,2026,Switzerland,Colombia,0,0,0,0
+men,2026-07-09,2026,France,Morocco,2,0,2,2
+men,2026-07-10,2026,Spain,Belgium,2,1,3,1
+men,2026-07-11,2026,Norway,England,1,2,3,1
+men,2026-07-11,2026,Argentina,Switzerland,3,1,4,2
+men,2026-07-14,2026,France,Spain,0,2,2,2
+men,2026-07-15,2026,England,Argentina,1,2,3,1
+men,2026-07-18,2026,France,England,4,6,10,2
+men,2026-07-19,2026,Spain,Argentina,1,0,1,1
+women,1991-11-16,1991,China,Norway,4,0,4,4
+women,1991-11-17,1991,Denmark,New Zealand,3,0,3,3
+women,1991-11-17,1991,Japan,Brazil,0,1,1,1
+women,1991-11-17,1991,Sweden,United States,2,3,5,1
+women,1991-11-17,1991,Germany,Nigeria,4,0,4,4
+women,1991-11-17,1991,Taiwan,Italy,0,5,5,5
+women,1991-11-19,1991,Norway,New Zealand,4,0,4,4
+women,1991-11-19,1991,China,Denmark,2,2,4,0
+women,1991-11-19,1991,Japan,Sweden,0,8,8,8
+women,1991-11-19,1991,Brazil,United States,0,5,5,5
+women,1991-11-19,1991,Italy,Nigeria,1,0,1,1
+women,1991-11-19,1991,Taiwan,Germany,0,3,3,3
+women,1991-11-21,1991,China,New Zealand,4,1,5,3
+women,1991-11-21,1991,Norway,Denmark,2,1,3,1
+women,1991-11-21,1991,Japan,United States,0,3,3,3
+women,1991-11-21,1991,Brazil,Sweden,0,2,2,2
+women,1991-11-21,1991,Taiwan,Nigeria,2,0,2,2
+women,1991-11-21,1991,Italy,Germany,0,2,2,2
+women,1991-11-24,1991,Denmark,Germany,1,2,3,1
+women,1991-11-24,1991,China,Sweden,0,1,1,1
+women,1991-11-24,1991,Norway,Italy,3,2,5,1
+women,1991-11-24,1991,United States,Taiwan,7,0,7,7
+women,1991-11-27,1991,Sweden,Norway,1,4,5,3
+women,1991-11-27,1991,Germany,United States,2,5,7,3
+women,1991-11-29,1991,Sweden,Germany,4,0,4,4
+women,1991-11-30,1991,Norway,United States,1,2,3,1
+women,1995-06-05,1995,Germany,Japan,1,0,1,1
+women,1995-06-05,1995,Sweden,Brazil,0,1,1,1
+women,1995-06-06,1995,Norway,Nigeria,8,0,8,8
+women,1995-06-06,1995,England,Canada,3,2,5,1
+women,1995-06-06,1995,United States,China,3,3,6,0
+women,1995-06-06,1995,Denmark,Australia,5,0,5,5
+women,1995-06-07,1995,Sweden,Germany,3,2,5,1
+women,1995-06-07,1995,Brazil,Japan,1,2,3,1
+women,1995-06-08,1995,Norway,England,2,0,2,2
+women,1995-06-08,1995,Nigeria,Canada,3,3,6,0
+women,1995-06-08,1995,United States,Denmark,2,0,2,2
+women,1995-06-08,1995,China,Australia,4,2,6,2
+women,1995-06-09,1995,Sweden,Japan,2,0,2,2
+women,1995-06-09,1995,Brazil,Germany,1,6,7,5
+women,1995-06-10,1995,Norway,Canada,7,0,7,7
+women,1995-06-10,1995,Nigeria,England,2,3,5,1
+women,1995-06-10,1995,United States,Australia,4,1,5,3
+women,1995-06-10,1995,China,Denmark,3,1,4,2
+women,1995-06-13,1995,Japan,United States,0,4,4,4
+women,1995-06-13,1995,Norway,Denmark,3,1,4,2
+women,1995-06-13,1995,Germany,England,3,0,3,3
+women,1995-06-13,1995,Sweden,China,1,1,2,0
+women,1995-06-15,1995,United States,Norway,0,1,1,1
+women,1995-06-15,1995,Germany,China,1,0,1,1
+women,1995-06-17,1995,China,United States,0,2,2,2
+women,1995-06-18,1995,Germany,Norway,0,2,2,2
+women,1999-06-19,1999,United States,Denmark,3,0,3,3
+women,1999-06-19,1999,Brazil,Mexico,7,1,8,6
+women,1999-06-19,1999,Japan,Canada,1,1,2,0
+women,1999-06-19,1999,China,Sweden,2,1,3,1
+women,1999-06-20,1999,North Korea,Nigeria,1,2,3,1
+women,1999-06-20,1999,Germany,Italy,1,1,2,0
+women,1999-06-20,1999,Norway,Russia,2,1,3,1
+women,1999-06-20,1999,Australia,Ghana,1,1,2,0
+women,1999-06-23,1999,Norway,Canada,7,1,8,6
+women,1999-06-23,1999,Japan,Russia,0,5,5,5
+women,1999-06-23,1999,Australia,Sweden,1,3,4,2
+women,1999-06-23,1999,China,Ghana,7,0,7,7
+women,1999-06-24,1999,United States,Nigeria,7,1,8,6
+women,1999-06-24,1999,North Korea,Denmark,3,1,4,2
+women,1999-06-24,1999,Brazil,Italy,2,0,2,2
+women,1999-06-24,1999,Germany,Mexico,6,0,6,6
+women,1999-06-26,1999,Canada,Russia,1,4,5,3
+women,1999-06-26,1999,Norway,Japan,4,0,4,4
+women,1999-06-26,1999,China,Australia,3,1,4,2
+women,1999-06-26,1999,Ghana,Sweden,0,2,2,2
+women,1999-06-27,1999,Nigeria,Denmark,2,0,2,2
+women,1999-06-27,1999,United States,North Korea,3,0,3,3
+women,1999-06-27,1999,Germany,Brazil,3,3,6,0
+women,1999-06-27,1999,Mexico,Italy,0,2,2,2
+women,1999-06-30,1999,China,Russia,2,0,2,2
+women,1999-06-30,1999,Norway,Sweden,3,1,4,2
+women,1999-07-01,1999,United States,Germany,3,2,5,1
+women,1999-07-01,1999,Brazil,Nigeria,4,3,7,1
+women,1999-07-04,1999,United States,Brazil,2,0,2,2
+women,1999-07-04,1999,Norway,China,0,5,5,5
+women,1999-07-10,1999,Brazil,Norway,0,0,0,0
+women,1999-07-10,1999,United States,China,0,0,0,0
+women,2003-09-20,2003,Nigeria,North Korea,0,3,3,3
+women,2003-09-20,2003,Norway,France,2,0,2,2
+women,2003-09-20,2003,Germany,Canada,4,1,5,3
+women,2003-09-20,2003,Japan,Argentina,6,0,6,6
+women,2003-09-21,2003,United States,Sweden,3,1,4,2
+women,2003-09-21,2003,Brazil,South Korea,3,0,3,3
+women,2003-09-21,2003,Australia,Russia,1,2,3,1
+women,2003-09-21,2003,China,Ghana,1,0,1,1
+women,2003-09-24,2003,Norway,Brazil,1,4,5,3
+women,2003-09-24,2003,France,South Korea,1,0,1,1
+women,2003-09-24,2003,Germany,Japan,3,0,3,3
+women,2003-09-24,2003,Canada,Argentina,3,0,3,3
+women,2003-09-25,2003,Sweden,North Korea,1,0,1,1
+women,2003-09-25,2003,United States,Nigeria,5,0,5,5
+women,2003-09-25,2003,Ghana,Russia,0,3,3,3
+women,2003-09-25,2003,China,Australia,1,1,2,0
+women,2003-09-27,2003,South Korea,Norway,1,7,8,6
+women,2003-09-27,2003,France,Brazil,1,1,2,0
+women,2003-09-27,2003,Canada,Japan,3,1,4,2
+women,2003-09-27,2003,Argentina,Germany,1,6,7,5
+women,2003-09-28,2003,Sweden,Nigeria,3,0,3,3
+women,2003-09-28,2003,United States,North Korea,3,0,3,3
+women,2003-09-28,2003,Ghana,Australia,2,1,3,1
+women,2003-09-28,2003,China,Russia,1,0,1,1
+women,2003-10-01,2003,Brazil,Sweden,1,2,3,1
+women,2003-10-01,2003,United States,Norway,1,0,1,1
+women,2003-10-02,2003,Germany,Russia,7,1,8,6
+women,2003-10-02,2003,China,Canada,0,1,1,1
+women,2003-10-05,2003,United States,Germany,0,3,3,3
+women,2003-10-05,2003,Sweden,Canada,2,1,3,1
+women,2003-10-11,2003,United States,Canada,3,1,4,2
+women,2003-10-12,2003,Germany,Sweden,2,1,3,1
+women,2007-09-10,2007,Germany,Argentina,11,0,11,11
+women,2007-09-11,2007,Japan,England,2,2,4,0
+women,2007-09-11,2007,United States,North Korea,2,2,4,0
+women,2007-09-11,2007,Nigeria,Sweden,1,1,2,0
+women,2007-09-12,2007,Ghana,Australia,1,4,5,3
+women,2007-09-12,2007,Norway,Canada,2,1,3,1
+women,2007-09-12,2007,New Zealand,Brazil,0,5,5,5
+women,2007-09-12,2007,China,Denmark,3,2,5,1
+women,2007-09-14,2007,Argentina,Japan,0,1,1,1
+women,2007-09-14,2007,England,Germany,0,0,0,0
+women,2007-09-14,2007,Sweden,United States,0,2,2,2
+women,2007-09-14,2007,North Korea,Nigeria,2,0,2,2
+women,2007-09-15,2007,Canada,Ghana,4,0,4,4
+women,2007-09-15,2007,Australia,Norway,1,1,2,0
+women,2007-09-15,2007,Denmark,New Zealand,2,0,2,2
+women,2007-09-15,2007,China,Brazil,0,4,4,4
+women,2007-09-17,2007,Germany,Japan,2,0,2,2
+women,2007-09-17,2007,England,Argentina,6,1,7,5
+women,2007-09-18,2007,Nigeria,United States,0,1,1,1
+women,2007-09-18,2007,North Korea,Sweden,1,2,3,1
+women,2007-09-20,2007,Norway,Ghana,7,2,9,5
+women,2007-09-20,2007,Australia,Canada,2,2,4,0
+women,2007-09-20,2007,China,New Zealand,2,0,2,2
+women,2007-09-20,2007,Brazil,Denmark,1,0,1,1
+women,2007-09-22,2007,Germany,North Korea,3,0,3,3
+women,2007-09-22,2007,United States,England,3,0,3,3
+women,2007-09-23,2007,China,Norway,0,1,1,1
+women,2007-09-23,2007,Brazil,Australia,3,2,5,1
+women,2007-09-26,2007,Germany,Norway,3,0,3,3
+women,2007-09-27,2007,United States,Brazil,0,4,4,4
+women,2007-09-30,2007,Norway,United States,1,4,5,3
+women,2007-09-30,2007,Germany,Brazil,2,0,2,2
+women,2011-06-26,2011,Nigeria,France,0,1,1,1
+women,2011-06-26,2011,Germany,Canada,2,1,3,1
+women,2011-06-27,2011,Japan,New Zealand,2,1,3,1
+women,2011-06-27,2011,Mexico,England,1,1,2,0
+women,2011-06-28,2011,Colombia,Sweden,0,1,1,1
+women,2011-06-28,2011,United States,North Korea,2,0,2,2
+women,2011-06-29,2011,Norway,Equatorial Guinea,1,0,1,1
+women,2011-06-29,2011,Brazil,Australia,1,0,1,1
+women,2011-06-30,2011,Canada,France,0,4,4,4
+women,2011-06-30,2011,Germany,Nigeria,1,0,1,1
+women,2011-07-01,2011,Japan,Mexico,4,0,4,4
+women,2011-07-01,2011,New Zealand,England,1,2,3,1
+women,2011-07-02,2011,North Korea,Sweden,0,1,1,1
+women,2011-07-02,2011,United States,Colombia,3,0,3,3
+women,2011-07-03,2011,Australia,Equatorial Guinea,3,2,5,1
+women,2011-07-03,2011,Brazil,Norway,3,0,3,3
+women,2011-07-05,2011,Germany,France,4,2,6,2
+women,2011-07-05,2011,Canada,Nigeria,0,1,1,1
+women,2011-07-05,2011,England,Japan,2,0,2,2
+women,2011-07-05,2011,New Zealand,Mexico,2,2,4,0
+women,2011-07-06,2011,Sweden,United States,2,1,3,1
+women,2011-07-06,2011,North Korea,Colombia,0,0,0,0
+women,2011-07-06,2011,Equatorial Guinea,Brazil,0,3,3,3
+women,2011-07-06,2011,Australia,Norway,2,1,3,1
+women,2011-07-09,2011,England,France,1,1,2,0
+women,2011-07-09,2011,Germany,Japan,0,1,1,1
+women,2011-07-10,2011,Sweden,Australia,3,1,4,2
+women,2011-07-10,2011,Brazil,United States,2,2,4,0
+women,2011-07-13,2011,France,United States,1,3,4,2
+women,2011-07-13,2011,Japan,Sweden,3,1,4,2
+women,2011-07-16,2011,Sweden,France,2,1,3,1
+women,2011-07-17,2011,Japan,United States,2,2,4,0
+women,2015-06-06,2015,Canada,China,1,0,1,1
+women,2015-06-06,2015,New Zealand,Netherlands,0,1,1,1
+women,2015-06-07,2015,Norway,Thailand,4,0,4,4
+women,2015-06-07,2015,Germany,Ivory Coast,10,0,10,10
+women,2015-06-08,2015,Cameroon,Ecuador,6,0,6,6
+women,2015-06-08,2015,Japan,Switzerland,1,0,1,1
+women,2015-06-08,2015,Sweden,Nigeria,3,3,6,0
+women,2015-06-08,2015,United States,Australia,3,1,4,2
+women,2015-06-09,2015,Spain,Costa Rica,1,1,2,0
+women,2015-06-09,2015,Brazil,South Korea,2,0,2,2
+women,2015-06-09,2015,France,England,1,0,1,1
+women,2015-06-09,2015,Colombia,Mexico,1,1,2,0
+women,2015-06-11,2015,China,Netherlands,1,0,1,1
+women,2015-06-11,2015,Canada,New Zealand,0,0,0,0
+women,2015-06-11,2015,Germany,Norway,1,1,2,0
+women,2015-06-11,2015,Ivory Coast,Thailand,2,3,5,1
+women,2015-06-12,2015,Switzerland,Ecuador,10,1,11,9
+women,2015-06-12,2015,Japan,Cameroon,2,1,3,1
+women,2015-06-12,2015,Australia,Nigeria,2,0,2,2
+women,2015-06-12,2015,United States,Sweden,0,0,0,0
+women,2015-06-13,2015,Brazil,Spain,1,0,1,1
+women,2015-06-13,2015,South Korea,Costa Rica,2,2,4,0
+women,2015-06-13,2015,France,Colombia,0,2,2,2
+women,2015-06-13,2015,England,Mexico,2,1,3,1
+women,2015-06-15,2015,Canada,Netherlands,1,1,2,0
+women,2015-06-15,2015,China,New Zealand,2,2,4,0
+women,2015-06-15,2015,Thailand,Germany,0,4,4,4
+women,2015-06-15,2015,Ivory Coast,Norway,1,3,4,2
+women,2015-06-16,2015,Ecuador,Japan,0,1,1,1
+women,2015-06-16,2015,Switzerland,Cameroon,1,2,3,1
+women,2015-06-16,2015,Nigeria,United States,0,1,1,1
+women,2015-06-16,2015,Australia,Sweden,1,1,2,0
+women,2015-06-17,2015,Costa Rica,Brazil,0,1,1,1
+women,2015-06-17,2015,South Korea,Spain,2,1,3,1
+women,2015-06-17,2015,Mexico,France,0,5,5,5
+women,2015-06-17,2015,England,Colombia,2,1,3,1
+women,2015-06-20,2015,Germany,Sweden,4,1,5,3
+women,2015-06-20,2015,China,Cameroon,1,0,1,1
+women,2015-06-21,2015,Brazil,Australia,0,1,1,1
+women,2015-06-21,2015,France,South Korea,3,0,3,3
+women,2015-06-21,2015,Canada,Switzerland,1,0,1,1
+women,2015-06-22,2015,Norway,England,1,2,3,1
+women,2015-06-22,2015,United States,Colombia,2,0,2,2
+women,2015-06-23,2015,Japan,Netherlands,2,1,3,1
+women,2015-06-26,2015,Germany,France,1,1,2,0
+women,2015-06-26,2015,China,United States,0,1,1,1
+women,2015-06-27,2015,Australia,Japan,0,1,1,1
+women,2015-06-27,2015,Canada,England,1,2,3,1
+women,2015-06-30,2015,United States,Germany,2,0,2,2
+women,2015-07-01,2015,Japan,England,2,1,3,1
+women,2015-07-04,2015,Germany,England,0,1,1,1
+women,2015-07-05,2015,United States,Japan,5,2,7,3
+women,2019-06-07,2019,France,South Korea,4,0,4,4
+women,2019-06-08,2019,Norway,Nigeria,3,0,3,3
+women,2019-06-08,2019,Germany,China,1,0,1,1
+women,2019-06-08,2019,Spain,South Africa,3,1,4,2
+women,2019-06-09,2019,Australia,Italy,1,2,3,1
+women,2019-06-09,2019,Brazil,Jamaica,3,0,3,3
+women,2019-06-09,2019,England,Scotland,2,1,3,1
+women,2019-06-10,2019,Argentina,Japan,0,0,0,0
+women,2019-06-10,2019,Canada,Cameroon,1,0,1,1
+women,2019-06-11,2019,New Zealand,Netherlands,0,1,1,1
+women,2019-06-11,2019,Chile,Sweden,0,2,2,2
+women,2019-06-11,2019,United States,Thailand,13,0,13,13
+women,2019-06-12,2019,Nigeria,South Korea,2,0,2,2
+women,2019-06-12,2019,France,Norway,2,1,3,1
+women,2019-06-12,2019,Germany,Spain,1,0,1,1
+women,2019-06-13,2019,South Africa,China,0,1,1,1
+women,2019-06-13,2019,Australia,Brazil,3,2,5,1
+women,2019-06-14,2019,Jamaica,Italy,0,5,5,5
+women,2019-06-14,2019,Japan,Scotland,2,1,3,1
+women,2019-06-14,2019,England,Argentina,1,0,1,1
+women,2019-06-15,2019,Netherlands,Cameroon,3,1,4,2
+women,2019-06-15,2019,Canada,New Zealand,2,0,2,2
+women,2019-06-16,2019,Sweden,Thailand,5,1,6,4
+women,2019-06-16,2019,United States,Chile,3,0,3,3
+women,2019-06-17,2019,France,Nigeria,1,0,1,1
+women,2019-06-17,2019,South Korea,Norway,1,2,3,1
+women,2019-06-17,2019,South Africa,Germany,0,4,4,4
+women,2019-06-17,2019,China,Spain,0,0,0,0
+women,2019-06-18,2019,Jamaica,Australia,1,4,5,3
+women,2019-06-18,2019,Italy,Brazil,0,1,1,1
+women,2019-06-19,2019,Japan,England,0,2,2,2
+women,2019-06-19,2019,Scotland,Argentina,3,3,6,0
+women,2019-06-20,2019,Netherlands,Canada,2,1,3,1
+women,2019-06-20,2019,Cameroon,New Zealand,2,1,3,1
+women,2019-06-20,2019,Sweden,United States,0,2,2,2
+women,2019-06-20,2019,Thailand,Chile,0,2,2,2
+women,2019-06-22,2019,Germany,Nigeria,3,0,3,3
+women,2019-06-22,2019,Norway,Australia,1,1,2,0
+women,2019-06-23,2019,England,Cameroon,3,0,3,3
+women,2019-06-23,2019,France,Brazil,2,1,3,1
+women,2019-06-24,2019,Spain,United States,1,2,3,1
+women,2019-06-24,2019,Sweden,Canada,1,0,1,1
+women,2019-06-25,2019,Italy,China,2,0,2,2
+women,2019-06-25,2019,Netherlands,Japan,2,1,3,1
+women,2019-06-27,2019,Norway,England,0,3,3,3
+women,2019-06-28,2019,France,United States,1,2,3,1
+women,2019-06-29,2019,Italy,Netherlands,0,2,2,2
+women,2019-06-29,2019,Germany,Sweden,1,2,3,1
+women,2019-07-02,2019,England,United States,1,2,3,1
+women,2019-07-03,2019,Netherlands,Sweden,1,0,1,1
+women,2019-07-06,2019,England,Sweden,1,2,3,1
+women,2019-07-07,2019,United States,Netherlands,2,0,2,2
+women,2023-07-20,2023,New Zealand,Norway,1,0,1,1
+women,2023-07-20,2023,Australia,Republic of Ireland,1,0,1,1
+women,2023-07-21,2023,Philippines,Switzerland,0,2,2,2
+women,2023-07-21,2023,Nigeria,Canada,0,0,0,0
+women,2023-07-21,2023,Spain,Costa Rica,3,0,3,3
+women,2023-07-22,2023,Zambia,Japan,0,5,5,5
+women,2023-07-22,2023,England,Haiti,1,0,1,1
+women,2023-07-22,2023,Denmark,China,1,0,1,1
+women,2023-07-22,2023,United States,Vietnam,3,0,3,3
+women,2023-07-23,2023,Netherlands,Portugal,1,0,1,1
+women,2023-07-23,2023,France,Jamaica,0,0,0,0
+women,2023-07-23,2023,Sweden,South Africa,2,1,3,1
+women,2023-07-24,2023,Brazil,Panama,4,0,4,4
+women,2023-07-24,2023,Italy,Argentina,1,0,1,1
+women,2023-07-24,2023,Germany,Morocco,6,0,6,6
+women,2023-07-25,2023,New Zealand,Philippines,0,1,1,1
+women,2023-07-25,2023,Switzerland,Norway,0,0,0,0
+women,2023-07-25,2023,Colombia,South Korea,2,0,2,2
+women,2023-07-26,2023,Canada,Republic of Ireland,2,1,3,1
+women,2023-07-26,2023,Japan,Costa Rica,2,0,2,2
+women,2023-07-26,2023,Spain,Zambia,5,0,5,5
+women,2023-07-27,2023,Australia,Nigeria,2,3,5,1
+women,2023-07-27,2023,United States,Netherlands,1,1,2,0
+women,2023-07-27,2023,Portugal,Vietnam,2,0,2,2
+women,2023-07-28,2023,England,Denmark,1,0,1,1
+women,2023-07-28,2023,China,Haiti,1,0,1,1
+women,2023-07-28,2023,Argentina,South Africa,2,2,4,0
+women,2023-07-29,2023,France,Brazil,2,1,3,1
+women,2023-07-29,2023,Panama,Jamaica,0,1,1,1
+women,2023-07-29,2023,Sweden,Italy,5,0,5,5
+women,2023-07-30,2023,New Zealand,Switzerland,0,0,0,0
+women,2023-07-30,2023,Norway,Philippines,6,0,6,6
+women,2023-07-30,2023,South Korea,Morocco,0,1,1,1
+women,2023-07-30,2023,Germany,Colombia,1,2,3,1
+women,2023-07-31,2023,Australia,Canada,4,0,4,4
+women,2023-07-31,2023,Republic of Ireland,Nigeria,0,0,0,0
+women,2023-07-31,2023,Japan,Spain,4,0,4,4
+women,2023-07-31,2023,Costa Rica,Zambia,1,3,4,2
+women,2023-08-01,2023,China,England,1,6,7,5
+women,2023-08-01,2023,Haiti,Denmark,0,2,2,2
+women,2023-08-01,2023,Portugal,United States,0,0,0,0
+women,2023-08-01,2023,Vietnam,Netherlands,0,7,7,7
+women,2023-08-02,2023,Panama,France,3,6,9,3
+women,2023-08-02,2023,Jamaica,Brazil,0,0,0,0
+women,2023-08-02,2023,Argentina,Sweden,0,2,2,2
+women,2023-08-02,2023,South Africa,Italy,3,2,5,1
+women,2023-08-03,2023,South Korea,Germany,1,1,2,0
+women,2023-08-03,2023,Morocco,Colombia,1,0,1,1
+women,2023-08-05,2023,Switzerland,Spain,1,5,6,4
+women,2023-08-05,2023,Japan,Norway,3,1,4,2
+women,2023-08-06,2023,Netherlands,South Africa,2,0,2,2
+women,2023-08-06,2023,Sweden,United States,0,0,0,0
+women,2023-08-07,2023,England,Nigeria,0,0,0,0
+women,2023-08-07,2023,Australia,Denmark,2,0,2,2
+women,2023-08-08,2023,Colombia,Jamaica,1,0,1,1
+women,2023-08-08,2023,France,Morocco,4,0,4,4
+women,2023-08-11,2023,Spain,Netherlands,2,1,3,1
+women,2023-08-11,2023,Japan,Sweden,1,2,3,1
+women,2023-08-12,2023,Australia,France,0,0,0,0
+women,2023-08-12,2023,England,Colombia,2,1,3,1
+women,2023-08-15,2023,Spain,Sweden,2,1,3,1
+women,2023-08-16,2023,Australia,England,1,3,4,2
+women,2023-08-19,2023,Australia,Sweden,0,2,2,2
+women,2023-08-20,2023,Spain,England,1,0,1,1
