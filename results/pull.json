@@ -1,0 +1,15 @@
+{
+  "pulled": "2026-10-03",
+  "men": {
+    "url": "https://raw.githubusercontent.com/martj42/international_results/master/results.csv",
+    "matches": 49547,
+    "first": "1872-11-30",
+    "last": "2026-08-26"
+  },
+  "women": {
+    "url": "https://raw.githubusercontent.com/martj42/womens-international-results/master/results.csv",
+    "matches": 11650,
+    "first": "1956-09-23",
+    "last": "2026-06-10"
+  }
+}
